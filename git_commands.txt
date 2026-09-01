@@ -18,3 +18,8 @@ dr -a
   git status                                                                                                  
   git commit -m "testing add"                                                                                 
   git status 
+
+  58 git status                                                                                                  
+  59 git push origin master                                                                                      
+  60 git push origin main                                                                                        
+  61 git status   
